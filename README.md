@@ -110,7 +110,6 @@ Essa regra garante que a **estrutura da árvore AVL influencia diretamente o res
 │   ├── StringLinkedList.java
 │   └── StringNode.java
 │
-├── explicacao.md
 └── README.md
 ```
 
