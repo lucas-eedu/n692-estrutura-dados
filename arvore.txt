@@ -1,0 +1,16 @@
+.
+├── arvore.txt
+├── input
+│   └── entrada.txt
+└── src
+    ├── AVLNode.java
+    ├── AVLTree.java
+    ├── DocumentAuthenticator.java
+    ├── HashUtils.java
+    ├── LinkedStack.java
+    ├── Main.java
+    ├── StackNode.java
+    ├── StringLinkedList.java
+    └── StringNode.java
+
+3 directories, 11 files
