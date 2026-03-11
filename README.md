@@ -118,17 +118,19 @@ Essa regra garante que a **estrutura da árvore AVL influencia diretamente o res
 
 # ▶️ Como Executar o Projeto
 
-## 1️⃣ Compilar o projeto
+1) Compilar o projeto
 
-Na raiz do projeto execute:
-
+```shell
 javac src/*.java
+```
 
 ---
 
-## 2️⃣ Executar o programa
+2) Executar o programa
 
+```shell
 java -cp src Main input/entrada.txt
+```
 
 ---
 
@@ -163,8 +165,4 @@ Cada linha gera **um código de autenticação SHA-1**.
 
 ---
 
-# 👨‍💻 Autor
-
 Projeto desenvolvido para a disciplina **N692 - Estrutura de Dados**.
-
-Autor: **Lucas Eduardo**
